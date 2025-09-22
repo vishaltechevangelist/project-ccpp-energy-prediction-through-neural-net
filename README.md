@@ -16,9 +16,6 @@ To develop a regression model using an ANN that predicts **net electrical energy
 
 ---
 
-
----
-
 ## 📊 Dataset
 - **Source**: UCI Machine Learning Repository  
 - **Dataset Name**: Combined Cycle Power Plant (CCPP)  
